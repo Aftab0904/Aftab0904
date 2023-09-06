@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aftab0904
-- 👀 I’m interested in Python Developer
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me @aftabn216@gmail.com
