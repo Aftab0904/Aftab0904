@@ -20,46 +20,45 @@
 
 
 ---
-
-## Tech Stack
-
 <p align="center">
+
   <!-- Programming & Libraries -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-Computing-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge" />
+
   <!-- GenAI & LLMs -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/LLM-Groq-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-API-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-LLM-important?style=for-the-badge" />
 
   <!-- RAG & Vector Systems -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/RAG-System-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-NLP-critical?style=for-the-badge" />
 
   <!-- Agent Frameworks -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Agents-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-LLM-yellowgreen?style=for-the-badge" />
 
   <!-- ML / DL -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-Metrics-lightblue?style=for-the-badge" />
 
   <!-- Deployment & Cloud -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
+
+</p>>
 
 
 ---
@@ -68,9 +67,9 @@
 
 | Project | Description |
 |--------|------------|
-| 🧾 Contract AI Engine | RAG system for legal contract analysis |
-| 📊 BI Agent | Conversational analytics using LLM |
-| 🌱 PlantGPT | AI assistant for plant disease detection |
+| Contract AI Engine | RAG system for legal contract analysis |
+| BI Agent | Conversational analytics using LLM |
+| PlantGPT | AI assistant for plant disease detection |
 
 ---
 
