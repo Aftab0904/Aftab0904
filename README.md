@@ -36,4 +36,12 @@
 
 -
 -  LinkedIn: https://www.linkedin.com/in/aftab-nadaf-130309225/
-- Email: naftab1810@gmail.com  
+- Email: naftab1810@gmail.com
+
+  ![Stars](https://img.shields.io/github/stars/Aftab0904/contract-ai-engine)
+![Forks](https://img.shields.io/github/forks/Aftab0904/contract-ai-engine)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aftab0904&theme=onedark" />
+</p>
+
