@@ -11,55 +11,34 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab0904&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aftab0904&theme=tokyonight)
-
-
-
 ---
 <p align="center">
 
-  <!-- Programming & Libraries -->
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-Computing-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge" />
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge" />
 
-  <!-- GenAI & LLMs -->
-  <img src="https://img.shields.io/badge/LLM-Groq-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-API-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-LLM-important?style=for-the-badge" />
+  <!-- GenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge" />
 
-  <!-- RAG & Vector Systems -->
-  <img src="https://img.shields.io/badge/RAG-System-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-NLP-critical?style=for-the-badge" />
+  <!-- RAG -->
+  <img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-teal?style=for-the-badge" />
 
-  <!-- Agent Frameworks -->
-  <img src="https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-Agents-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent-Systems-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-LLM-yellowgreen?style=for-the-badge" />
+  <!-- Backend / UI -->
+  <img src="https://img.shields.io/badge/FastAPI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge" />
 
-  <!-- ML / DL -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-Models-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-Metrics-lightblue?style=for-the-badge" />
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge" />
 
-  <!-- Deployment & Cloud -->
-  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
-
-</p>>
-
+</p>
 
 ---
 
