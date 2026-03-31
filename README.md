@@ -17,19 +17,50 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aftab0904&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0904&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MachineLearning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-RAG-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-Frontend-red?style=for-the-badge" />
+  <!-- Programming & Libraries -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- GenAI & LLMs -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+  <!-- RAG & Vector Systems -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+  <!-- Agent Frameworks -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+  <!-- ML / DL -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+  <!-- Deployment & Cloud -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
+
 
 ---
 
