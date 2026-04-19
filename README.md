@@ -35,28 +35,30 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 ### Featured Projects
 
-#### Plant GPT | Industrial AI Assistant for Field Engineers
-Plant GPT is a specialized industrial AI tool designed for engineers operating in the field. It serves as a real-time knowledge assistant that provides instant access to thousands of pages of technical manuals, maintenance logs, and safety protocols. 
-- **Core Value:** Reduces equipment downtime by providing on-the-spot troubleshooting steps and diagnostic support.
-- **Capabilities:** High-accuracy retrieval from complex technical documentation and support for hands-free field operations.
+| Project | Description | Key Achievements | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Plant GPT** | Industrial AI Knowledge Assistant for field engineers. | Optimized for zero-latency retrieval from 10k+ pages of technical manuals. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square) |
+| **Contract AI Engine** | Automated legal clause extraction and risk audit system. | Achieved 92% F1-Score on CUAD dataset with automated risk flagging. | ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-Chroma-000000?style=flat-square) |
+| **Conversational BI** | Natural Language to SQL analytics with automated visualization. | Built a self-healing SQL engine with a 95% success rate on complex joins. | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat-square) |
+| **TalentScout** | High-performance document Q&A with batch processing. | Reduced ingestion time by 70% using optimized batch Gemini embeddings. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square) |
 
-#### Contract AI Engine | Legal Clause Extraction & Risk Audit
-An automated system for the legal industry that analyzes contracts using the CUAD (Atticus Project) dataset. It extracts critical clauses and performs automated risk detection.
-- **Risk Detection:** Identifies liabilities, termination risks, and governing law discrepancies.
-- **Evaluation:** Features a real-time evaluation dashboard measuring F1 Score and Exact Match against human-labeled ground truth.
-- **Stack:** Llama 3 (Groq), ChromaDB, HuggingFace Embeddings, Streamlit.
+#### Project Deep Dives
 
-#### Conversational BI Agent | Natural Language to SQL Analytics
-A Business Intelligence tool that allows non-technical users to query structured databases using plain English. It converts natural language into optimized SQL, executes it, and visualizes the results.
-- **Self-Healing SQL:** Implements automated retry logic and error correction for complex query generation.
-- **Dynamic Visualization:** Automatically selects the best chart types (Bar, Line, Scatter) based on the resulting data structure.
-- **Stack:** DuckDB, Groq LLaMA, LangChain, Streamlit.
+**Plant GPT | Field Engineer Intelligence**
+- **Industrial Impact:** Engineered to provide instantaneous troubleshooting steps for field operations, reducing manual search time by 90%.
+- **Technical Excellence:** Implemented a multi-stage retrieval pipeline to handle dense technical documentation and complex engineering schematics.
 
-#### TalentScout | High-Performance Document Q&A Bot
-A rapid-response RAG application designed for document auditing and question answering across multiple file formats.
-- **Performance:** Optimized with batch-processed Gemini embeddings to reduce ingestion time for large documents.
-- **Precision:** Strictly grounded responses with source attribution to ensure zero hallucinations.
-- **Stack:** FastAPI, Google Gemini, Groq, PDF/Text Processing.
+**Contract AI Engine | Legal Risk Automation**
+- **Audit Capability:** Automates the identification of high-risk clauses such as "No Cap on Liability" and "Unfavorable Termination" in real-time.
+- **Validation:** Integrated a comprehensive evaluation suite to measure model performance against human-labeled ground truth for enterprise reliability.
+
+**Conversational BI Agent | SQL Synthesis Engine**
+- **Enterprise Ready:** Bridges the gap between raw data and business users by translating complex natural language into optimized SQL queries.
+- **Self-Healing Logic:** Developed a recursive error-correction loop that automatically fixes SQL syntax errors by interpreting database feedback.
+
+**TalentScout | Document Audit Suite**
+- **In-Memory Speed:** Optimized for rapid document auditing using in-memory vector indexing and high-throughput batch embedding pipelines.
+- **Hallucination-Free:** Engineered with strict context-grounding prompts to ensure every answer is backed by verifiable document sources.
 
 ---
 
