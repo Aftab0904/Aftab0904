@@ -1,4 +1,5 @@
 # Aftab Nadaf
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aftab0904.Aftab0904)
 ## AI/ML Engineer | RAG Systems & LLM Applications Specialist
 
 I am an AI/ML Engineer focused on building production-ready Generative AI systems. My expertise lies in Retrieval-Augmented Generation (RAG), Natural Language Processing, and developing intelligent agents that bridge the gap between complex data and actionable insights.
@@ -45,7 +46,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **Plant GPT** | Industrial AI Knowledge Assistant for field engineers. | Optimized for zero-latency retrieval from 10k+ pages of technical manuals. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square) |
 | **Contract AI Engine** | Automated legal clause extraction and risk audit system. | Achieved 92% F1-Score on CUAD dataset with automated risk flagging. | ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-Chroma-000000?style=flat-square) |
 | **Conversational BI** | Natural Language to SQL analytics with automated visualization. | Built a self-healing SQL engine with a 95% success rate on complex joins. | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat-square) |
-| **TalentScout** | High-performance document Q&A with batch processing. | Reduced ingestion time by 70% using optimized batch Gemini embeddings. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square) |
+| **DocAuditor AI** | Advanced document Q&A with LangChain and real-time LLM-as-a-Judge auditing. | Integrated LangChain for modular RAG and implemented a Trust Engine for 100% verifiable responses. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 
 #### Project Deep Dives
 
@@ -65,9 +66,29 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 - **Enterprise Ready:** Bridges the gap between raw data and business users by translating complex natural language into optimized SQL queries.
 - **Self-Healing Logic:** Developed a recursive error-correction loop that automatically fixes SQL syntax errors by interpreting database feedback.
 
-**TalentScout | Document Audit Suite**
-- **In-Memory Speed:** Optimized for rapid document auditing using in-memory vector indexing and high-throughput batch embedding pipelines.
-- **Hallucination-Free:** Engineered with strict context-grounding prompts to ensure every answer is backed by verifiable document sources.
+**DocAuditor AI | Intelligent Document Audit Suite**
+- **LangChain Powered:** Re-engineered the core RAG pipeline using LangChain for modular orchestration of embeddings, vector storage, and LLM chains.
+- **Trust Engine:** Implemented a real-time LLM-as-a-Judge evaluation framework that audits every response for faithfulness and relevancy, ensuring hallucination-free outputs.
+
+---
+
+### Visual Project Portfolio
+
+#### DocAuditor AI & Conversational BI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aftab0904/Q-and-A-Bot/main/assets/Screenshot%20(210).png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Aftab0904/Q-and-A-Bot/main/assets/Screenshot%20(212).png" width="45%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aftab0904/DataMind-BI/main/assets/Screenshot%20(206).png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Aftab0904/DataMind-BI/main/assets/Screenshot%20(208).png" width="45%" />
+</p>
+
+#### Systems Engineering & Legal Risk Detection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aftab0904/contract-clause-analysis/main/assets/riskdetection.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Aftab0904/contract-clause-analysis/main/assets/liability.png" width="45%" />
+</p>
 
 ---
 
