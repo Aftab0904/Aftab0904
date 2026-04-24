@@ -1,6 +1,6 @@
 # Aftab Nadaf
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aftab0904.Aftab0904)
-## AI/ML Engineer | RAG Systems & LLM Applications Specialist
+## AI/ML Engineer | RAG Systems and LLM Applications Specialist
 
 I am an AI/ML Engineer focused on building production-ready Generative AI systems. My expertise lies in Retrieval-Augmented Generation (RAG), Natural Language Processing, and developing intelligent agents that bridge the gap between complex data and actionable insights.
 
@@ -15,7 +15,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### Artificial Intelligence & RAG
+#### Artificial Intelligence and RAG
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -28,7 +28,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
   <img src="https://img.shields.io/badge/Chunking-FFD700?style=for-the-badge&logoColor=black" />
 </p>
 
-#### Data Science & Engineering
+#### Data Science and Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -42,7 +42,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 | Project | Description | Key Achievements | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Systems Engineering Intelligence](https://github.com/Aftab0904/Space-Systems-Eng-Intelligence-RAG)** | Advanced RAG for complex technical manuals with hierarchical context and multi-hop reasoning. | Solved "lost context" in 270+ page manuals with 94% precision and citation accuracy. | ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat-square) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) |
+| **[Systems Engineering Intelligence](https://github.com/Aftab0904/Space-Systems-Eng-Intelligence-RAG)** | Advanced RAG for complex technical manuals with hierarchical context and multi-hop reasoning. | Solved lost context in 270+ page manuals with 94% precision and citation accuracy. | ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat-square) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) |
 | **Plant GPT** | Industrial AI Knowledge Assistant for field engineers. | Optimized for zero-latency retrieval from 10k+ pages of technical manuals. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square) |
 | **Contract AI Engine** | Automated legal clause extraction and risk audit system. | Achieved 92% F1-Score on CUAD dataset with automated risk flagging. | ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-Chroma-000000?style=flat-square) |
 | **Conversational BI** | Natural Language to SQL analytics with automated visualization. | Built a self-healing SQL engine with a 95% success rate on complex joins. | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat-square) |
@@ -51,10 +51,10 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 #### Project Deep Dives
 
-**Intelligent Sortation & Gap Control System | Logistics Automation**
+**Intelligent Sortation and Gap Control System | Logistics Automation**
 - **Dynamic Physics Logic:** Developed a Python-based controller that replaces static timers with momentum-aware gap calculations, specifically optimized for fragile goods.
 - **Industrial Precision:** Integrated IO-Link laser sensors for 1mm tracking accuracy and real-time belt slippage compensation, ensuring a near-zero collision rate during high-speed merge operations.
-- **Simulation Excellence:** Designed the 3D layout using Dematic Maestro CET, featuring wedge merges and Zero-Pressure Accumulation (ZPA) for maximum efficiency.
+- **Simulation Excellence:** Designed the 3D layout using Configura CET, featuring wedge merges and Zero-Pressure Accumulation (ZPA) for maximum efficiency.
 
 **Systems Engineering Intelligence | Technical Handbook Assistant**
 - **Complex Document Intelligence:** Engineered a hierarchical parsing strategy to preserve logic across 270+ pages of dense engineering standards (NASA public domain documentation).
@@ -65,7 +65,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 - **Technical Excellence:** Implemented a multi-stage retrieval pipeline to handle dense technical documentation and complex engineering schematics.
 
 **Contract AI Engine | Legal Risk Automation**
-- **Audit Capability:** Automates the identification of high-risk clauses such as "No Cap on Liability" and "Unfavorable Termination" in real-time.
+- **Audit Capability:** Automates the identification of high-risk clauses such as No Cap on Liability and Unfavorable Termination in real-time.
 - **Validation:** Integrated a comprehensive evaluation suite to measure model performance against human-labeled ground truth for enterprise reliability.
 
 **Conversational BI Agent | SQL Synthesis Engine**
@@ -80,7 +80,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 ### Visual Project Portfolio
 
-#### DocAuditor AI & Conversational BI
+#### DocAuditor AI and Conversational BI
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aftab0904/Q-and-A-Bot/main/assets/Screenshot%20(210).png" width="45%" />
   <img src="https://raw.githubusercontent.com/Aftab0904/Q-and-A-Bot/main/assets/Screenshot%20(212).png" width="45%" />
@@ -90,7 +90,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
   <img src="https://raw.githubusercontent.com/Aftab0904/DataMind-BI/main/assets/Screenshot%20(208).png" width="45%" />
 </p>
 
-#### Systems Engineering & Legal Risk Detection
+#### Systems Engineering and Legal Risk Detection
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aftab0904/contract-clause-analysis/main/assets/riskdetection.png" width="45%" />
   <img src="https://raw.githubusercontent.com/Aftab0904/contract-clause-analysis/main/assets/liability.png" width="45%" />
@@ -98,7 +98,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 ---
 
-### Performance & Contributions
+### Performance and Contributions
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aftab0904&show_icons=true&theme=tokyonight&hide_border=true" alt="Aftab's GitHub Stats" width="48%" />
@@ -111,7 +111,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 
 ---
 
-### Contact & Portfolio
+### Contact and Portfolio
 
 - **LinkedIn:** [Aftab Nadaf](https://www.linkedin.com/in/aftab-nadaf-130309225/)
 - **Email:** naftab1810@gmail.com
