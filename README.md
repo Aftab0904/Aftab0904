@@ -1,6 +1,6 @@
 # Aftab Nadaf
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aftab0904.Aftab0904)
-## AI/ML Engineer | RAG Systems and LLM Applications Specialist
+## AI/ML Engineer | RAG Systems and LLM Enthusiast AI Engineer, LLM, GEN AI domain, open for opportunities
 
 I am an AI/ML Engineer focused on building production-ready Generative AI systems. My expertise lies in Retrieval-Augmented Generation (RAG), Natural Language Processing, and developing intelligent agents that bridge the gap between complex data and actionable insights.
 
@@ -50,13 +50,30 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **Intelligent Sortation** | High-speed gap control for fragile goods in logistics. | Achieved near-zero collision rate and +12% throughput increase via dynamic gap adjustment. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 | **Multi-Tier Shuttle** | Automated Storage and Retrieval System (AS/RS) optimization. | Engineered a 15% improvement in retrieval cycles through A* pathfinding and Configura CET emulation. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Smart Pallet Routing** | High-speed sortation and collision prevention for heavy loads. | Optimized beverage distribution loops with 100% SKU accuracy and +39% increase in sortation speed. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
+| **AI Crypto Agent** | Autonomous agent for real-time crypto market analysis and news synthesis. | Integrated specialized RAG for financial docs and real-time API tools for market insights. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) |
+| **Voice AI Assistant** | Low-latency voice-to-voice interaction system with RAG capabilities. | Optimized audio processing pipeline for real-time conversational intelligence. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![STT/TTS](https://img.shields.io/badge/-Audio-blue?style=flat-square) |
+| **Pharma AI Agent** | Knowledge retrieval system for pharmaceutical documentation and regulatory compliance. | Engineered for high-precision extraction of medical and chemical data points. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square) |
+| **Loan Analytics** | Data-driven dashboard for loan risk assessment and portfolio analysis. | Developed interactive visualizations to identify high-risk loan segments and trends. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Data-green?style=flat-square) |
+| **Credit Segmentation** | Customer segmentation using unsupervised learning for credit card insights. | Implemented clustering algorithms to identify distinct spending behaviors and profiles. | ![ML](https://img.shields.io/badge/-ML-orange?style=flat-square) ![Scikit--Learn](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square) |
 
 #### Project Deep Dives
+
+**AI Crypto Agent | Financial Intelligence**
+- **Autonomous Reasoning:** Built an intelligent agent capable of synthesizing real-time crypto news with historical market data via a custom-tuned RAG pipeline.
+- **Tool Integration:** Developed tool-calling capabilities for real-time market APIs, allowing the agent to provide actionable insights on price volatility and sentiment.
+
+**Voice AI Assistant | Conversational Intelligence**
+- **Real-time Pipeline:** Engineered a low-latency voice-to-voice architecture integrating Speech-to-Text (STT), LLM reasoning, and Text-to-Speech (TTS) for seamless human-AI interaction.
+- **Contextual Memory:** Implemented conversational history management to ensure coherent long-form interactions across multiple voice sessions.
+
+**Pharma AI Agent | Medical Compliance**
+- **High-Precision Retrieval:** Optimized for dense medical literature and regulatory standards, ensuring 100% factual accuracy in pharmaceutical information extraction.
+- **Domain Specialization:** Developed custom chunking and embedding strategies to handle complex chemical nomenclature and medical terminology.
 
 **Smart Pallet Routing System | Industrial Logistics**
 - **Dynamic Sortation Logic:** Developed a Python-based routing engine that utilizes real-time gap analysis to prevent collisions in high-speed beverage distribution loops (2.5 m/s).
 - **Industrial Sensing:** Integrated RFID-over-IO-Link protocols for non-line-of-sight SKU identification, achieving 100% sortation accuracy for heavy palletized loads.
-- **Precision Engineering:** Designed 3D sortation layouts in Configura CET, incorporating high-speed pneumatic diverters and optimized curved roller segments for "Zero-Damage" handling.
+- **Precision Engineering:** Designed 3D sortation layouts in Configura CET, incorporating high-speed pneumatic diverters and optimized curved roller segments for Zero-Damage handling.
 
 **Automated Multi-Tier Shuttle System | Warehouse Automation**
 - **High-Performance Logic:** Engineered a C++ movement engine utilizing A* pathfinding and priority-based sequencing to eliminate vertical bottlenecks in 12-tier storage systems.
