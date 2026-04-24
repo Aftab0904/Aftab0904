@@ -48,8 +48,14 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **Conversational BI** | Natural Language to SQL analytics with automated visualization. | Built a self-healing SQL engine with a 95% success rate on complex joins. | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat-square) |
 | **DocAuditor AI** | Advanced document Q&A with LangChain and real-time LLM-as-a-Judge auditing. | Integrated LangChain for modular RAG and implemented a Trust Engine for 100% verifiable responses. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Intelligent Sortation** | High-speed gap control for fragile goods in logistics. | Achieved near-zero collision rate and +12% throughput increase via dynamic gap adjustment. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
+| **Multi-Tier Shuttle** | Automated Storage and Retrieval System (AS/RS) optimization. | Engineered a 15% improvement in retrieval cycles through A* pathfinding and Configura CET emulation. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 #### Project Deep Dives
+
+**Automated Multi-Tier Shuttle System | Warehouse Automation**
+- **High-Performance Logic:** Engineered a C++ movement engine utilizing A* pathfinding and priority-based sequencing to eliminate vertical bottlenecks in 12-tier storage systems.
+- **System Emulation:** Designed complex 3D warehouse environments in Configura CET, simulating high-velocity fulfillment scenarios for global distribution centers.
+- **Analytics Driven:** Developed Python-based stress testers to model Prime Day volume, achieving a 15% increase in Cycles Per Hour (CPH) and reducing shuttle idle time by 61%.
 
 **Intelligent Sortation and Gap Control System | Logistics Automation**
 - **Dynamic Physics Logic:** Developed a Python-based controller that replaces static timers with momentum-aware gap calculations, specifically optimized for fragile goods.
