@@ -49,8 +49,14 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **DocAuditor AI** | Advanced document Q&A with LangChain and real-time LLM-as-a-Judge auditing. | Integrated LangChain for modular RAG and implemented a Trust Engine for 100% verifiable responses. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Intelligent Sortation** | High-speed gap control for fragile goods in logistics. | Achieved near-zero collision rate and +12% throughput increase via dynamic gap adjustment. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 | **Multi-Tier Shuttle** | Automated Storage and Retrieval System (AS/RS) optimization. | Engineered a 15% improvement in retrieval cycles through A* pathfinding and Configura CET emulation. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Smart Pallet Routing** | High-speed sortation and collision prevention for heavy loads. | Optimized beverage distribution loops with 100% SKU accuracy and +39% increase in sortation speed. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 
 #### Project Deep Dives
+
+**Smart Pallet Routing System | Industrial Logistics**
+- **Dynamic Sortation Logic:** Developed a Python-based routing engine that utilizes real-time gap analysis to prevent collisions in high-speed beverage distribution loops (2.5 m/s).
+- **Industrial Sensing:** Integrated RFID-over-IO-Link protocols for non-line-of-sight SKU identification, achieving 100% sortation accuracy for heavy palletized loads.
+- **Precision Engineering:** Designed 3D sortation layouts in Configura CET, incorporating high-speed pneumatic diverters and optimized curved roller segments for "Zero-Damage" handling.
 
 **Automated Multi-Tier Shuttle System | Warehouse Automation**
 - **High-Performance Logic:** Engineered a C++ movement engine utilizing A* pathfinding and priority-based sequencing to eliminate vertical bottlenecks in 12-tier storage systems.
