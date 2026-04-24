@@ -49,6 +49,7 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **DocAuditor AI** | Advanced document Q&A with LangChain and real-time LLM-as-a-Judge auditing. | Integrated LangChain for modular RAG and implemented a Trust Engine for 100% verifiable responses. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Intelligent Sortation** | High-speed gap control for fragile goods in logistics. | Achieved near-zero collision rate and +12% throughput increase via dynamic gap adjustment. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 | **Multi-Tier Shuttle** | Automated Storage and Retrieval System (AS/RS) optimization. | Engineered a 15% improvement in retrieval cycles through A* pathfinding and Configura CET emulation. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Baggage Handling** | End-to-end PLC control for airport baggage sortation systems. | Engineered millisecond-perfect divert logic and fault recovery using PLC SCL and WinCC SCADA. | ![PLC](https://img.shields.io/badge/-PLC-blue?style=flat-square) ![SCADA](https://img.shields.io/badge/-SCADA-orange?style=flat-square) |
 | **Smart Pallet Routing** | High-speed sortation and collision prevention for heavy loads. | Optimized beverage distribution loops with 100% SKU accuracy and +39% increase in sortation speed. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 | **AI Crypto Agent** | Autonomous agent for real-time crypto market analysis and news synthesis. | Integrated specialized RAG for financial docs and real-time API tools for market insights. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) |
 | **Voice AI Assistant** | Low-latency voice-to-voice interaction system with semantic scoring. | Optimized asynchronous audio pipeline with Edge-TTS and Groq Whisper API for real-time intelligence. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-orange?style=flat-square) |
@@ -57,6 +58,11 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **Credit Segmentation** | Customer segmentation using unsupervised learning for credit card insights. | Implemented clustering algorithms to identify distinct spending behaviors and profiles. | ![ML](https://img.shields.io/badge/-ML-orange?style=flat-square) ![Scikit--Learn](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square) |
 
 #### Project Deep Dives
+
+**Airport Baggage Handling Control System | Industrial Automation**
+- **PLC Core Engineering:** Developed deterministic routing logic using Structured Control Language (SCL) to manage high-speed conveyor modules with integrated barcode scanner handshakes.
+- **Fault-Tolerant Architecture:** Implemented advanced failure mitigation strategies, including automated rerouting for jammed diverters and real-time Profinet node health monitoring.
+- **SCADA Visualization:** Engineered a centralized WinCC dashboard for real-time baggage tracking, diagnostic alarm logging, and automated throughput (BPH) performance reporting.
 
 **AI Crypto Agent | Financial Intelligence**
 - **Autonomous Reasoning:** Built an intelligent agent capable of synthesizing real-time crypto news with historical market data via a custom-tuned RAG pipeline.
