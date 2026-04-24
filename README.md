@@ -47,8 +47,14 @@ I am an AI/ML Engineer focused on building production-ready Generative AI system
 | **Contract AI Engine** | Automated legal clause extraction and risk audit system. | Achieved 92% F1-Score on CUAD dataset with automated risk flagging. | ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-Chroma-000000?style=flat-square) |
 | **Conversational BI** | Natural Language to SQL analytics with automated visualization. | Built a self-healing SQL engine with a 95% success rate on complex joins. | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat-square) |
 | **DocAuditor AI** | Advanced document Q&A with LangChain and real-time LLM-as-a-Judge auditing. | Integrated LangChain for modular RAG and implemented a Trust Engine for 100% verifiable responses. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Intelligent Sortation** | High-speed gap control for fragile goods in logistics. | Achieved near-zero collision rate and +12% throughput increase via dynamic gap adjustment. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IO-Link](https://img.shields.io/badge/-IO--Link-orange?style=flat-square) |
 
 #### Project Deep Dives
+
+**Intelligent Sortation & Gap Control System | Logistics Automation**
+- **Dynamic Physics Logic:** Developed a Python-based controller that replaces static timers with momentum-aware gap calculations, specifically optimized for fragile goods.
+- **Industrial Precision:** Integrated IO-Link laser sensors for 1mm tracking accuracy and real-time belt slippage compensation, ensuring a near-zero collision rate during high-speed merge operations.
+- **Simulation Excellence:** Designed the 3D layout using Dematic Maestro CET, featuring wedge merges and Zero-Pressure Accumulation (ZPA) for maximum efficiency.
 
 **Systems Engineering Intelligence | Technical Handbook Assistant**
 - **Complex Document Intelligence:** Engineered a hierarchical parsing strategy to preserve logic across 270+ pages of dense engineering standards (NASA public domain documentation).
